@@ -1,0 +1,11 @@
+# Ignore all the .txt files
+*.txt
+
+# Ignore all the .zip files
+*.zip
+
+# Ignore all the files under voxceleb2_proc_segments/
+voxceleb2_proc_segments/*
+
+# Ignore all the files under voxceleb2_proc_zips/
+voxceleb2_proc_zips/*
