@@ -1,8 +1,25 @@
 ## Download Dataset
-- `VoxCeleb1`: [Link](https://pan.quark.cn/s/e22a74e8dc8d?pwd=txw7) (提取码：txw7)
-- `VoxCeleb2`: [Link](https://pan.quark.cn/s/38821c5dc835?pwd=4pjq) (提取码：4pjq)
-- `musan.tar.gz`: [Link](https://pan.quark.cn/s/d804108f53dc?pwd=zFUm) (提取码：zFUm)
-- `rirs_noises.zip`: [Link](https://pan.quark.cn/s/5ae224886d83?pwd=aLyf) (提取码：aLyf)
+
+`VoxCeleb1`| https://pan.quark.cn/s/e22a74e8dc8d?pwd=txw7 | 提取码：txw7
+
+`VoxCeleb2`| https://pan.quark.cn/s/38821c5dc835?pwd=4pjq | 提取码：4pjq
+
+`musan.tar.gz`| https://pan.quark.cn/s/d804108f53dc?pwd=zFUm | 提取码：zFUm
+
+`rirs_noises.zip`| https://pan.quark.cn/s/5ae224886d83?pwd=aLyf | 提取码：aLyf
+
+## Download Dataset
+All these datasets are backed up on Quark (Philip). If you want to download them, please follow the links and passcodes.
+| Dataset                 | Link                                                | 提取码 |
+|-------------------------|-----------------------------------------------------|--------|
+| VoxCeleb1               | https://pan.quark.cn/s/e22a74e8dc8d?pwd=txw7        | txw7   |
+| VoxCeleb2               | https://pan.quark.cn/s/38821c5dc835?pwd=4pjq        | 4pjq   |
+| musan.tar.gz            | https://pan.quark.cn/s/632e1933d640?pwd=EFez        | EFez   |
+| rirs_noises.zip         | https://pan.quark.cn/s/632e1933d640?pwd=EFez        | EFez   |
+| Voxceleb2_proc_segments |                                                     |        |
+| merged_labels.txt       |                                                     |        |
+| Voxceleb2_proc_segments |                                                     |        |
+
 
 ## Preparation
 - Download all the datasets:
